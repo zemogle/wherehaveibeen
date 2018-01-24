@@ -1,0 +1,8973 @@
+eqfeed_callback({
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1395197681000,
+    "url": "http://www.yearzero.uk",
+    "title": "Year Zero checkins",
+    "status": 200,
+    "api": "1.0.13",
+    "count": 560
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.954062,
+          50.905404
+        ]
+      },
+      "properties": {
+        "name": "Home Farm House",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8798907182887417,
+          50.720527013730795
+        ]
+      },
+      "properties": {
+        "name": "Tesco",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.875384154973496,
+          50.71617950913839
+        ]
+      },
+      "properties": {
+        "name": "Bournemouth Pier",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8747342538802079,
+          50.71638671902564
+        ]
+      },
+      "properties": {
+        "name": "Bournemouth Beach",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8746515205336096,
+          50.71401238004586
+        ]
+      },
+      "properties": {
+        "name": "Key West Restaurant",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Pier Approach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.875645662708577,
+          50.71608730861512
+        ]
+      },
+      "properties": {
+        "name": "Aruba",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.997918,
+          50.894712
+        ]
+      },
+      "properties": {
+        "name": "Drovers Inn, Gussage All Saints",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.271933321182716,
+          51.403343838516
+        ]
+      },
+      "properties": {
+        "name": "Barry",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2082167635880467,
+          51.47176889991791
+        ]
+      },
+      "properties": {
+        "name": "Asda",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Leckwith Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.206391469883735,
+          51.471435739031904
+        ]
+      },
+      "properties": {
+        "name": "Marks & Spencer",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Leckwith Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1754501442141567,
+          51.478080033039376
+        ]
+      },
+      "properties": {
+        "name": "Cardiff Central Library",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1632151218837854,
+          51.46685931914768
+        ]
+      },
+      "properties": {
+        "name": "Odeon",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Hemingway Rd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.163292145859135,
+          51.46688059098817
+        ]
+      },
+      "properties": {
+        "name": "Red Dragon Centre",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175172500526601,
+          51.478059432239235
+        ]
+      },
+      "properties": {
+        "name": "Wahaca",
+        "visits": 6,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1747931276473764,
+          51.47868750588236
+        ]
+      },
+      "properties": {
+        "name": "Apple Store",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175384,
+          51.482249
+        ]
+      },
+      "properties": {
+        "name": "Lush",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1743118006653726,
+          51.47788152870871
+        ]
+      },
+      "properties": {
+        "name": "John Lewis",
+        "visits": 14,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179035743360407,
+          51.47587464812137
+        ]
+      },
+      "properties": {
+        "name": "Cardiff Central Railway Station (CDF)",
+        "visits": 5,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17647922361674545,
+          51.51659200866009
+        ]
+      },
+      "properties": {
+        "name": "The Beer House",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17680343662416595,
+          51.51659723321616
+        ]
+      },
+      "properties": {
+        "name": "London Paddington Railway Station (PAD)",
+        "visits": 5,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13840481711428543,
+          51.50855865837351
+        ]
+      },
+      "properties": {
+        "name": "Fortnum & Mason",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.139353,
+          51.5087
+        ]
+      },
+      "properties": {
+        "name": "Royal Astronomical Society",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13543313683813177,
+          51.51528455372725
+        ]
+      },
+      "properties": {
+        "name": "Chipotle Mexican Grill",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Noel St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1401829719543457,
+          51.51390393283479
+        ]
+      },
+      "properties": {
+        "name": "Liberty of London",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1511863328155409,
+          51.51386330405403
+        ]
+      },
+      "properties": {
+        "name": "Fernandez & Wells",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.152864,
+          51.51464
+        ]
+      },
+      "properties": {
+        "name": "Selfridges & Co",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "btwn Duke & Orchard St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16014397144317627,
+          51.501635294043176
+        ]
+      },
+      "properties": {
+        "name": "Harvey Nichols",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.162698,
+          51.499572
+        ]
+      },
+      "properties": {
+        "name": "Harrods",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15724576520997563,
+          51.49374697463267
+        ]
+      },
+      "properties": {
+        "name": "Cadogan Hall",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.152248040982815,
+          51.49066920879502
+        ]
+      },
+      "properties": {
+        "name": "The Orange",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "at St. Barnabas St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12719048198713145,
+          51.512966051369425
+        ]
+      },
+      "properties": {
+        "name": "Rossopomodoro",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12936803068658387,
+          51.513172602358274
+        ]
+      },
+      "properties": {
+        "name": "Harry Potter and the Cursed Child - Parts One and Two",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12277543544769287,
+          51.51196093686036
+        ]
+      },
+      "properties": {
+        "name": "Covent Garden Market",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1297532306426488,
+          51.51370050591918
+        ]
+      },
+      "properties": {
+        "name": "Z Caf\u00e9",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "btwn Charing Cross & Greek St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1556468818268484,
+          51.49213801223374
+        ]
+      },
+      "properties": {
+        "name": "Sloane Square London Underground Station",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1664738257541214,
+          51.484312876349655
+        ]
+      },
+      "properties": {
+        "name": "McPHYSX, outreach teams of Cardiff University School of Physics & Astronomy,",
+        "visits": 132,
+        "country": "United Kingdom",
+        "place": "Newport Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17460362302662,
+          51.47899986908671
+        ]
+      },
+      "properties": {
+        "name": "Paperchase",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": "Grand Arcade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1752567,
+          51.481987
+        ]
+      },
+      "properties": {
+        "name": "Marks & Spencer",
+        "visits": 32,
+        "country": "United Kingdom",
+        "place": "St David's Dewi Sant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1771078985515326,
+          51.47978112166855
+        ]
+      },
+      "properties": {
+        "name": "Waterstones",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1788796688337437,
+          51.48019894321979
+        ]
+      },
+      "properties": {
+        "name": "The Bread Stall",
+        "visits": 15,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.177464,
+          51.488667
+        ]
+      },
+      "properties": {
+        "name": "Coffi Co",
+        "visits": 38,
+        "country": "United Kingdom",
+        "place": "Senghennydd Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0002748197959175,
+          51.5755881701391
+        ]
+      },
+      "properties": {
+        "name": "All Saints Church",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Mumbles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1383566446821014,
+          51.530368934810085
+        ]
+      },
+      "properties": {
+        "name": "Waitrose",
+        "visits": 9,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2066298394789867,
+          51.498340615980005
+        ]
+      },
+      "properties": {
+        "name": "Tesco Extra",
+        "visits": 5,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.196484360243069,
+          51.482489390950384
+        ]
+      },
+      "properties": {
+        "name": "St Mary Of The Angels",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1693616582981856,
+          51.48454166894109
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University School of Physics & Astronomy",
+        "visits": 85,
+        "country": "United Kingdom",
+        "place": "Newport Rd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.170579258131693,
+          51.481796461564755
+        ]
+      },
+      "properties": {
+        "name": "Cardiff Queen Street Railway Station (CDQ)",
+        "visits": 16,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14095026026771015,
+          51.50168829693699
+        ]
+      },
+      "properties": {
+        "name": "Buckingham Palace",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14452081655506488,
+          51.49518293453919
+        ]
+      },
+      "properties": {
+        "name": "London Victoria Railway Station (VIC)",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09270384077830456,
+          51.37594902738111
+        ]
+      },
+      "properties": {
+        "name": "East Croydon Railway Station (ECR)",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "4-5 Station Approach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09595380830800278,
+          51.37435559630467
+        ]
+      },
+      "properties": {
+        "name": "Waitrose",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "George St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09409204047746213,
+          51.37471742491906
+        ]
+      },
+      "properties": {
+        "name": "The Cronx",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Vulcan Way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09357690811157227,
+          51.37498173152558
+        ]
+      },
+      "properties": {
+        "name": "Kothu Kothu",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "99 George St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09359773391568056,
+          51.37503385473559
+        ]
+      },
+      "properties": {
+        "name": "BOXPARK Croydon",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Dingwall Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17625241790062712,
+          51.5151595772692
+        ]
+      },
+      "properties": {
+        "name": "The Pride of Paddington",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1623221383531885,
+          51.46332737058755
+        ]
+      },
+      "properties": {
+        "name": "The National Assembly for Wales",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1641003011962527,
+          51.46477420557251
+        ]
+      },
+      "properties": {
+        "name": "Wales Millennium Centre",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1819067300274693,
+          51.532793862112555
+        ]
+      },
+      "properties": {
+        "name": "Llanishen Railway Station (LLS)",
+        "visits": 8,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.207901239697738,
+          51.48220384121254
+        ]
+      },
+      "properties": {
+        "name": "Canton Uniting Church",
+        "visits": 8,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2094203,
+          51.5296215
+        ]
+      },
+      "properties": {
+        "name": "Gondi Lifestyle Salon",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.200536611991908,
+          51.52547857221402
+        ]
+      },
+      "properties": {
+        "name": "Morrisons",
+        "visits": 11,
+        "country": "United Kingdom",
+        "place": "Llanishen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.170128609793663,
+          51.48451853618473
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University Trevithick Restaurant",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": "Queen's Buildings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.338643487879715,
+          51.398882535809705
+        ]
+      },
+      "properties": {
+        "name": "Cardiff International Airport (CWL)",
+        "visits": 6,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762322748690813,
+          52.30974416342517
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam Airport Schiphol (AMS)",
+        "visits": 4,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4819345054197415,
+          52.166112557238954
+        ]
+      },
+      "properties": {
+        "name": "Leiden Central Railway station (Station Leiden Centraal)",
+        "visits": 3,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.492415090766599,
+          52.15755502147479
+        ]
+      },
+      "properties": {
+        "name": "Dille & Kamille",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.490424135446254,
+          52.158082474110785
+        ]
+      },
+      "properties": {
+        "name": "Van Stockum Boekverkopers",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.490490759828965,
+          52.157880265776086
+        ]
+      },
+      "properties": {
+        "name": "Van de Leur Leiden",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.495265691100854,
+          52.15770463423421
+        ]
+      },
+      "properties": {
+        "name": "De Bonte Koe",
+        "visits": 3,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.457979640569205,
+          52.168761272839575
+        ]
+      },
+      "properties": {
+        "name": "Sterrewacht Leiden",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": "Universiteit Leiden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1731998632858445,
+          51.48249767832777
+        ]
+      },
+      "properties": {
+        "name": "Burrito Brothers",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1710983632459224,
+          51.482991602823496
+        ]
+      },
+      "properties": {
+        "name": "Coffee #1",
+        "visits": 40,
+        "country": "United Kingdom",
+        "place": "140 Queen St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1755653032692215,
+          51.479429057968204
+        ]
+      },
+      "properties": {
+        "name": "St David's Dewi Sant",
+        "visits": 10,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1809711972118073,
+          51.480688192656864
+        ]
+      },
+      "properties": {
+        "name": "Rules Of Play",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1808692006351347,
+          51.48058622529026
+        ]
+      },
+      "properties": {
+        "name": "Madame Fromage",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172958861898608,
+          51.48334177814818
+        ]
+      },
+      "properties": {
+        "name": "The Print Center",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172652654380108,
+          51.47982151091671
+        ]
+      },
+      "properties": {
+        "name": "The Little Man Coffee Co",
+        "visits": 11,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.193224833569262,
+          51.53454289925495
+        ]
+      },
+      "properties": {
+        "name": "Llanishen",
+        "visits": 39,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2678305411173434,
+          51.4875115825129
+        ]
+      },
+      "properties": {
+        "name": "Plymouth Arms",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2000650499641994,
+          51.48556665239519
+        ]
+      },
+      "properties": {
+        "name": "Pipes Beer",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Kings Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1712524895853895,
+          51.49184953257993
+        ]
+      },
+      "properties": {
+        "name": "Milgi Lounge",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179237193051307,
+          51.480411859636
+        ]
+      },
+      "properties": {
+        "name": "smallBAR",
+        "visits": 6,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175408905262721,
+          51.47969347202892
+        ]
+      },
+      "properties": {
+        "name": "The LEGO Store",
+        "visits": 11,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1759799826106883,
+          51.47889499529562
+        ]
+      },
+      "properties": {
+        "name": "Scribbler",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171450834735112,
+          51.48309340576578
+        ]
+      },
+      "properties": {
+        "name": "Sainsbury's",
+        "visits": 6,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1935360668776593,
+          51.53853457390419
+        ]
+      },
+      "properties": {
+        "name": "Sainsbury's",
+        "visits": 9,
+        "country": "United Kingdom",
+        "place": "Thornhill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.219447109058569,
+          51.512564123389595
+        ]
+      },
+      "properties": {
+        "name": "Coffee #1",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1882492870457617,
+          51.46269775607876
+        ]
+      },
+      "properties": {
+        "name": "IKEA",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.207597,
+          51.546628
+        ]
+      },
+      "properties": {
+        "name": "Miller & Carter",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1785359533223256,
+          51.48022586990727
+        ]
+      },
+      "properties": {
+        "name": "Cardiff Market",
+        "visits": 17,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.173317237222748,
+          51.483594348621274
+        ]
+      },
+      "properties": {
+        "name": "Milk & Sugar",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.191579282283783,
+          51.50322811655966
+        ]
+      },
+      "properties": {
+        "name": "Society Standard",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1673489980701888,
+          51.49378424587342
+        ]
+      },
+      "properties": {
+        "name": "Coffee#1",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1425481450701427,
+          51.49725332993362
+        ]
+      },
+      "properties": {
+        "name": "Currys PC World",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.488450352768132,
+          51.92505643303485
+        ]
+      },
+      "properties": {
+        "name": "National Park Visitor Centre",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.39241013857803,
+          51.7500666904118
+        ]
+      },
+      "properties": {
+        "name": "Marks & Spencer",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.174492498813534,
+          51.47847458819145
+        ]
+      },
+      "properties": {
+        "name": "Lakeland",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "55-57 Grand Arcade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1733412467681754,
+          51.48245169436833
+        ]
+      },
+      "properties": {
+        "name": "Tesco Metro",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Churchill Way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.165959323370235,
+          51.46317219394388
+        ]
+      },
+      "properties": {
+        "name": "Ken Picton",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1654686053283663,
+          51.4636353008809
+        ]
+      },
+      "properties": {
+        "name": "Fabulous Welshcakes",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2000124420349154,
+          51.48456773529169
+        ]
+      },
+      "properties": {
+        "name": "Br\u00f8d",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.168933391571045,
+          51.481937464316765
+        ]
+      },
+      "properties": {
+        "name": "The Clink",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1766697356985047,
+          51.49409292662732
+        ]
+      },
+      "properties": {
+        "name": "Sainsbury's Local",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.178204040441336,
+          51.48471643745228
+        ]
+      },
+      "properties": {
+        "name": "Cardiff City Hall",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175909,
+          51.48456
+        ]
+      },
+      "properties": {
+        "name": "Brodies Coffee Cabin",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": "Civic Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176851899712211,
+          51.48469748149759
+        ]
+      },
+      "properties": {
+        "name": "Gorsedd Gardens",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176054,
+          51.485584
+        ]
+      },
+      "properties": {
+        "name": "I Want To Ride My Bike",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175143199307768,
+          51.48605258723794
+        ]
+      },
+      "properties": {
+        "name": "Pen & Wig",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1878240370809814,
+          51.5291831824552
+        ]
+      },
+      "properties": {
+        "name": "The Co-operative",
+        "visits": 11,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1701216687922606,
+          51.484486264539036
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University School of Engineering",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.181222207315461,
+          51.47980363563191
+        ]
+      },
+      "properties": {
+        "name": "Tiny Rebel",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": "Quay St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.203849105354626,
+          51.48308752746208
+        ]
+      },
+      "properties": {
+        "name": "Chapter Arts Centre",
+        "visits": 10,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1927764371575846,
+          51.52650066941505
+        ]
+      },
+      "properties": {
+        "name": "Boots",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176435,
+          51.482351
+        ]
+      },
+      "properties": {
+        "name": "Wilko",
+        "visits": 5,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1718462705612183,
+          51.4827125122114
+        ]
+      },
+      "properties": {
+        "name": "Boots",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1663963336941876,
+          51.484452037311904
+        ]
+      },
+      "properties": {
+        "name": "McKenzie House",
+        "visits": 5,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172861766353197,
+          51.48351501184559
+        ]
+      },
+      "properties": {
+        "name": "Flute & Tankard",
+        "visits": 10,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172924077321255,
+          51.482912618376616
+        ]
+      },
+      "properties": {
+        "name": "200 Degrees",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.195114,
+          51.522329
+        ]
+      },
+      "properties": {
+        "name": "Screwfix",
+        "visits": 6,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1926899509787976,
+          51.52646809589481
+        ]
+      },
+      "properties": {
+        "name": "Marks & Spencer",
+        "visits": 8,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2268047332763667,
+          51.497415881912254
+        ]
+      },
+      "properties": {
+        "name": "BBC Cymru Wales",
+        "visits": 5,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.177465348938045,
+          51.47858113891004
+        ]
+      },
+      "properties": {
+        "name": "The Camera Centre",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.170417807213855,
+          51.484665770059074
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University Trevithick Library",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Queen's Buildings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1940703858370108,
+          51.52229641549042
+        ]
+      },
+      "properties": {
+        "name": "North Cardiff Royal Mail Delivery Office",
+        "visits": 6,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5490856170654297,
+          49.00682691900929
+        ]
+      },
+      "properties": {
+        "name": "Paris Charles de Gaulle Airport (CDG) (A\u00e9roport Paris-Charles de Gaulle)",
+        "visits": 1,
+        "country": "France",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.044379956146702,
+          60.29273788066656
+        ]
+      },
+      "properties": {
+        "name": "VR Tikkurila",
+        "visits": 1,
+        "country": "Finland",
+        "place": "Asematie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94133761566782,
+          60.17152958049468
+        ]
+      },
+      "properties": {
+        "name": "VR Helsinki Central Railway Station (VR Helsingin p\u00e4\u00e4rautatieasema)",
+        "visits": 2,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.92185630215709,
+          60.159392566941975
+        ]
+      },
+      "properties": {
+        "name": "Clarion Hotel Helsinki",
+        "visits": 6,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94665267117934,
+          60.15917678035777
+        ]
+      },
+      "properties": {
+        "name": "Sea Horse",
+        "visits": 1,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.951772866027202,
+          60.16822684720066
+        ]
+      },
+      "properties": {
+        "name": "Bryggeri Helsinki",
+        "visits": 1,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.960081,
+          60.169025
+        ]
+      },
+      "properties": {
+        "name": "Johan & Nystr\u00f6m",
+        "visits": 1,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94985,
+          60.16832
+        ]
+      },
+      "properties": {
+        "name": "Iittala",
+        "visits": 1,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949633,
+          60.167945
+        ]
+      },
+      "properties": {
+        "name": "Arabia",
+        "visits": 1,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.943437290370532,
+          60.16787350941187
+        ]
+      },
+      "properties": {
+        "name": "Akateeminen Kirjakauppa",
+        "visits": 1,
+        "country": "Finland",
+        "place": "Pohjoisesplanadi 39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.939082240878598,
+          60.1628563858034
+        ]
+      },
+      "properties": {
+        "name": "Andante",
+        "visits": 1,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.921629405488527,
+          60.159165996958016
+        ]
+      },
+      "properties": {
+        "name": "Kitchen & Table",
+        "visits": 1,
+        "country": "Finland",
+        "place": "Tyynenmerenkatu 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.922594106288898,
+          60.179011770079754
+        ]
+      },
+      "properties": {
+        "name": "Kulturhuset Sandels",
+        "visits": 1,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75700754755329,
+          60.222452577346665
+        ]
+      },
+      "properties": {
+        "name": "Nokia Karaportti Campus",
+        "visits": 1,
+        "country": "Finland",
+        "place": "Karaportti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.958641301292143,
+          60.16871619588107
+        ]
+      },
+      "properties": {
+        "name": "Holiday Bar",
+        "visits": 1,
+        "country": "Finland",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.971619472053135,
+          60.31493491691891
+        ]
+      },
+      "properties": {
+        "name": "VR Lentoasema",
+        "visits": 1,
+        "country": "Finland",
+        "place": "Teletie 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.968297481536865,
+          60.31912855684579
+        ]
+      },
+      "properties": {
+        "name": "Helsinki Airport (HEL) (Helsinki Airport)",
+        "visits": 1,
+        "country": "Finland",
+        "place": "Lentoasemantie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3384636236387846,
+          51.39840979606573
+        ]
+      },
+      "properties": {
+        "name": "Departure Lounge",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Tredogan Rd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.205042030104172,
+          51.46629201521287
+        ]
+      },
+      "properties": {
+        "name": "Bessemer Close Recycling Centre",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Hadfield Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2582402229309078,
+          51.5295183372046
+        ]
+      },
+      "properties": {
+        "name": "Pugh's Garden Village",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "T\u0177 Nant Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1469099562253473,
+          51.49164031291235
+        ]
+      },
+      "properties": {
+        "name": "Mothercare",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Newport Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1290659020192013,
+          51.537345396527876
+        ]
+      },
+      "properties": {
+        "name": "B&Q",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.14718908485429,
+          51.49375536138226
+        ]
+      },
+      "properties": {
+        "name": "Europcar Cardiff Roath",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.192582104494965,
+          51.51960187596353
+        ]
+      },
+      "properties": {
+        "name": "Heath",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0372253937820493,
+          51.4236852952356
+        ]
+      },
+      "properties": {
+        "name": "Costa Coffee",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.037188512363243,
+          51.4236876109289
+        ]
+      },
+      "properties": {
+        "name": "Reading Westbound Motorway Services (Moto)",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17425775527954102,
+          51.15870377944883
+        ]
+      },
+      "properties": {
+        "name": "London Gatwick Airport (LGW)",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30050564499676,
+          28.42591299505905
+        ]
+      },
+      "properties": {
+        "name": "Gate 85",
+        "visits": 1,
+        "country": "United States",
+        "place": "MCO Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30708999087284,
+          28.430112697651648
+        ]
+      },
+      "properties": {
+        "name": "Orlando International Airport (MCO)",
+        "visits": 2,
+        "country": "United States",
+        "place": "btwn State Rd 528 & State Rd 417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57819623026944,
+          28.418902577577647
+        ]
+      },
+      "properties": {
+        "name": "Space Mountain",
+        "visits": 3,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58299386616869,
+          28.420257300577134
+        ]
+      },
+      "properties": {
+        "name": "Haunted Mansion",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58105557261668,
+          28.41659064508358
+        ]
+      },
+      "properties": {
+        "name": "Magic Kingdom\u00ae Park",
+        "visits": 10,
+        "country": "United States",
+        "place": "Walt Disney World Resort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52265628608947,
+          28.376206428045638
+        ]
+      },
+      "properties": {
+        "name": "The Artist's Palette",
+        "visits": 6,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52274888343237,
+          28.376035480458317
+        ]
+      },
+      "properties": {
+        "name": "Disney's Saratoga Springs Resort & Spa",
+        "visits": 20,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57448142524619,
+          28.414934464847743
+        ]
+      },
+      "properties": {
+        "name": "California Grill",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57440900802612,
+          28.415036140206155
+        ]
+      },
+      "properties": {
+        "name": "Disney's Contemporary Resort",
+        "visits": 3,
+        "country": "United States",
+        "place": "at Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52398532542733,
+          28.37780248567274
+        ]
+      },
+      "properties": {
+        "name": "Grandstand Pool",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55963830094218,
+          28.357750787579896
+        ]
+      },
+      "properties": {
+        "name": "The Trolley Car Caf\u00e9 (ft. Starbucks)",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55992920346597,
+          28.359592511692913
+        ]
+      },
+      "properties": {
+        "name": "The Twilight Zone Tower of Terror",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55880443890499,
+          28.355662193435226
+        ]
+      },
+      "properties": {
+        "name": "Star Tours \u2013 The Adventures Continue",
+        "visits": 3,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58766639546195,
+          28.358294536465607
+        ]
+      },
+      "properties": {
+        "name": "Rivers of Light",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5870137,
+          28.3586023
+        ]
+      },
+      "properties": {
+        "name": "Expedition Everest",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59217572141644,
+          28.355567684409188
+        ]
+      },
+      "properties": {
+        "name": "Avatar Flight of Passage",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.591313,
+          28.359719
+        ]
+      },
+      "properties": {
+        "name": "Disney's Animal Kingdom",
+        "visits": 6,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58124297888153,
+          28.418858164487332
+        ]
+      },
+      "properties": {
+        "name": "Cinderella Castle",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58300457483341,
+          28.41845048791508
+        ]
+      },
+      "properties": {
+        "name": "Adventureland",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57448634669643,
+          28.415166093779643
+        ]
+      },
+      "properties": {
+        "name": "The Wave of American Flavors",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58493067372197,
+          28.407233589790792
+        ]
+      },
+      "properties": {
+        "name": "Boat Launch, Polynesian Resort",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58577661290865,
+          28.412587214428275
+        ]
+      },
+      "properties": {
+        "name": "Narcoossee's",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55187337462982,
+          28.37382230660919
+        ]
+      },
+      "properties": {
+        "name": "Soarin'",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54709768295288,
+          28.368320808908628
+        ]
+      },
+      "properties": {
+        "name": "Germany Pavilion",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5494414584673,
+          28.37258651798533
+        ]
+      },
+      "properties": {
+        "name": "Epcot 2017 International Food & Wine Festival",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World Resort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54709768295284,
+          28.37385904720763
+        ]
+      },
+      "properties": {
+        "name": "Mission: SPACE",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5494414584673,
+          28.37574801206753
+        ]
+      },
+      "properties": {
+        "name": "Epcot",
+        "visits": 7,
+        "country": "United States",
+        "place": "Walt Disney World Resort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56175262698366,
+          28.411547000000024
+        ]
+      },
+      "properties": {
+        "name": "Hoop-Dee-Doo Musical Revue",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56165250466236,
+          28.411656037477982
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Hall",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5181512832641,
+          28.370709273355047
+        ]
+      },
+      "properties": {
+        "name": "Disney Springs",
+        "visits": 5,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5928105367941,
+          28.358381051843317
+        ]
+      },
+      "properties": {
+        "name": "Festival of The Lion King",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.591682,
+          28.357763
+        ]
+      },
+      "properties": {
+        "name": "Creature Comforts (ft Starbucks)",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59170843489434,
+          28.355314210034336
+        ]
+      },
+      "properties": {
+        "name": "Na\u2019vi River Journey",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58122825407392,
+          28.42010630605098
+        ]
+      },
+      "properties": {
+        "name": "Prince Charming Regal Carousel",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58110055007702,
+          28.41836149007811
+        ]
+      },
+      "properties": {
+        "name": "Once Upon A Time Castle Projection Show",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.581192,
+          28.418699
+        ]
+      },
+      "properties": {
+        "name": "Happily Ever After",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5826514675462,
+          28.418473045169776
+        ]
+      },
+      "properties": {
+        "name": "Jungle Navigation Co. Ltd. Skipper Canteen",
+        "visits": 1,
+        "country": "United States",
+        "place": "Magic Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56100590340206,
+          28.356270377198136
+        ]
+      },
+      "properties": {
+        "name": "Toy Story Mania!",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55914187004456,
+          28.358045447549014
+        ]
+      },
+      "properties": {
+        "name": "Disney's Hollywood Studios",
+        "visits": 5,
+        "country": "United States",
+        "place": "at E Buena Vista Dr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58772694660415,
+          28.41098803833601
+        ]
+      },
+      "properties": {
+        "name": "Disney's Grand Floridian Resort & Spa",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6802193249083,
+          28.52491902201537
+        ]
+      },
+      "properties": {
+        "name": "Atlantis Exhibit Kennedy Space Center",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.66977500915527,
+          28.604680988467347
+        ]
+      },
+      "properties": {
+        "name": "Apollo/Saturn V Center",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55157536441794,
+          28.371605981038606
+        ]
+      },
+      "properties": {
+        "name": "Le Cellier Steakhouse",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55116094920145,
+          28.371531603547474
+        ]
+      },
+      "properties": {
+        "name": "Canada Pavilion",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55052351019086,
+          28.367953306469754
+        ]
+      },
+      "properties": {
+        "name": "Japan Pavilion",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World Resort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55874016613483,
+          28.361090370420463
+        ]
+      },
+      "properties": {
+        "name": "Fantasmic!",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disney's Hollywood Studios"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58974480628967,
+          28.358628178768406
+        ]
+      },
+      "properties": {
+        "name": "Yak & Yeti Restaurant",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51518807532096,
+          28.371317890439872
+        ]
+      },
+      "properties": {
+        "name": "World of Disney",
+        "visits": 2,
+        "country": "United States",
+        "place": "Disney Springs Marketplace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5197490775643,
+          28.370332342815782
+        ]
+      },
+      "properties": {
+        "name": "Starbucks",
+        "visits": 2,
+        "country": "United States",
+        "place": "Disney Springs West Side"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52127981185913,
+          28.370412965603517
+        ]
+      },
+      "properties": {
+        "name": "Disney Springs West Side",
+        "visits": 2,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55949779403082,
+          28.355116101013735
+        ]
+      },
+      "properties": {
+        "name": "Muppet Vision 3-D",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55201607118833,
+          28.370595212915504
+        ]
+      },
+      "properties": {
+        "name": "United Kingdom Pavilion",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55053573853365,
+          28.375099999831942
+        ]
+      },
+      "properties": {
+        "name": "Coral Reef Restaurant",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58129652344245,
+          28.4181153193026
+        ]
+      },
+      "properties": {
+        "name": "Casey's Corner",
+        "visits": 2,
+        "country": "United States",
+        "place": "Magic Kingdom, Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55116998104982,
+          28.373955311863902
+        ]
+      },
+      "properties": {
+        "name": "The Land Pavilion",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59150299954703,
+          28.356737939410475
+        ]
+      },
+      "properties": {
+        "name": "Nomad Lounge",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56072023763181,
+          28.359587032033545
+        ]
+      },
+      "properties": {
+        "name": "Rock 'N' Roller Coaster Starring Aerosmith",
+        "visits": 3,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6053351554217,
+          28.354224056377316
+        ]
+      },
+      "properties": {
+        "name": "Sanaa",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60556872883603,
+          28.35422455832124
+        ]
+      },
+      "properties": {
+        "name": "Kidani Village",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51539879557858,
+          28.372724708226887
+        ]
+      },
+      "properties": {
+        "name": "Goofy's Candy Company",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51440116071319,
+          28.372063479288506
+        ]
+      },
+      "properties": {
+        "name": "Marketplace Co-Op",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51590466499329,
+          28.371351380227313
+        ]
+      },
+      "properties": {
+        "name": "The LEGO Store",
+        "visits": 1,
+        "country": "United States",
+        "place": "Disney Springs Marketplace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57985552839747,
+          28.418268930183572
+        ]
+      },
+      "properties": {
+        "name": "Monsters, Inc. Laugh Floor",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52524948120117,
+          28.378072558134193
+        ]
+      },
+      "properties": {
+        "name": "The Grandstand",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58120877594556,
+          28.41901247463406
+        ]
+      },
+      "properties": {
+        "name": "Festival of Fantasy Parade",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5811573075044,
+          28.416394690658112
+        ]
+      },
+      "properties": {
+        "name": "Walt Disney World Railroad - Main Street Station",
+        "visits": 1,
+        "country": "United States",
+        "place": "Magic Kingdom, Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58100055704307,
+          28.417683000656197
+        ]
+      },
+      "properties": {
+        "name": "Main Street Bakery (feat. Starbucks)",
+        "visits": 1,
+        "country": "United States",
+        "place": "Magic Kingdom, Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5567398,
+          28.3665223
+        ]
+      },
+      "properties": {
+        "name": "Disney's BoardWalk",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55595858027655,
+          28.366969215089203
+        ]
+      },
+      "properties": {
+        "name": "Flying Fish",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58932572235605,
+          28.35860450536175
+        ]
+      },
+      "properties": {
+        "name": "Yak & Yeti Anandapur Local Foods Cafe",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51793497825993,
+          28.3717538188524
+        ]
+      },
+      "properties": {
+        "name": "The BOATHOUSE",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5597467375422,
+          28.356574643351784
+        ]
+      },
+      "properties": {
+        "name": "For The First Time in Forever: Frozen Sing-Along",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5249774967127,
+          28.37868546476111
+        ]
+      },
+      "properties": {
+        "name": "Grandstand Bus Stop",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5790211926379,
+          28.41850019366979
+        ]
+      },
+      "properties": {
+        "name": "Astro Orbiter",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5843278169632,
+          28.41798965022896
+        ]
+      },
+      "properties": {
+        "name": "Pirates of the Caribbean",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58455731499515,
+          28.419867762111405
+        ]
+      },
+      "properties": {
+        "name": "Big Thunder Mountain Railroad",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5818694478464,
+          28.42036348807892
+        ]
+      },
+      "properties": {
+        "name": "Peter Pan's Flight",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58149245425228,
+          28.42001727310567
+        ]
+      },
+      "properties": {
+        "name": "Mickey's PhilharMagic",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4936816,
+          28.3868095
+        ]
+      },
+      "properties": {
+        "name": "Original Penguin",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Orlando Vineland Premium Outlets"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49309952951697,
+          28.38756973596718
+        ]
+      },
+      "properties": {
+        "name": "Banana Republic Factory Store",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Orlando Premium Outlets"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5833352,
+          28.4050855
+        ]
+      },
+      "properties": {
+        "name": "Disney\u2019s Polynesian Village Resort",
+        "visits": 1,
+        "country": "United States",
+        "place": "Walt Disney World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58213716802693,
+          28.416013744692165
+        ]
+      },
+      "properties": {
+        "name": "Magic Kingdom Monorail Station",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30935772753308,
+          28.430121703433006
+        ]
+      },
+      "properties": {
+        "name": "Disney's Magical Express Welcome Center",
+        "visits": 1,
+        "country": "United States",
+        "place": "MCO Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1802658983376398,
+          51.16248834583947
+        ]
+      },
+      "properties": {
+        "name": "Gate 571",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "LGW Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17676197073918423,
+          51.16102520128471
+        ]
+      },
+      "properties": {
+        "name": "North Terminal",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.18959177781213588,
+          51.117697106016074
+        ]
+      },
+      "properties": {
+        "name": "Travelodge",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.173122853598498,
+          51.47942990351125
+        ]
+      },
+      "properties": {
+        "name": "The Stable",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17064627478213,
+          51.49287983641699
+        ]
+      },
+      "properties": {
+        "name": "Tesco",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172965847254665,
+          51.482839130899265
+        ]
+      },
+      "properties": {
+        "name": "schuh",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.170228516349226,
+          51.484336126903045
+        ]
+      },
+      "properties": {
+        "name": "Trevithick Junior Common Room (JCR) Shop",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "Queen's Buildings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175875611610716,
+          51.4817471698862
+        ]
+      },
+      "properties": {
+        "name": "Boots",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "St David's Dewi Sant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19934302824667,
+          51.526321294087204
+        ]
+      },
+      "properties": {
+        "name": "Homebase",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": "Ashbourn Way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1775507883979106,
+          51.48856195312186
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University Students' Union",
+        "visits": 5,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1282057054242554,
+          51.535107724870564
+        ]
+      },
+      "properties": {
+        "name": "Asda",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189456925993083,
+          51.5019000092381
+        ]
+      },
+      "properties": {
+        "name": "The Crispy Duck",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17256680444179,
+          51.483164319222524
+        ]
+      },
+      "properties": {
+        "name": "Poundland",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1772085318878363,
+          51.481154819099274
+        ]
+      },
+      "properties": {
+        "name": "Post Office",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "Queen St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17387239286914,
+          51.4821439230102
+        ]
+      },
+      "properties": {
+        "name": "Next",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.27605110257099,
+          51.4662127091081
+        ]
+      },
+      "properties": {
+        "name": "Marks & Spencer",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1818831088411277,
+          51.503606125379605
+        ]
+      },
+      "properties": {
+        "name": "Wedal Road Recycling Centre",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.147496601035522,
+          51.49521248695796
+        ]
+      },
+      "properties": {
+        "name": "Sainsbury's",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21080059186676,
+          51.484230384520245
+        ]
+      },
+      "properties": {
+        "name": "Richards Framing",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2196143726023707,
+          51.51286400507573
+        ]
+      },
+      "properties": {
+        "name": "Boots",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188189474685542,
+          51.51642213832136
+        ]
+      },
+      "properties": {
+        "name": "St Isan Road Surgery",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.178228,
+          51.480478
+        ]
+      },
+      "properties": {
+        "name": "Ashton's Fishmongers",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1808291796502703,
+          51.48713332438816
+        ]
+      },
+      "properties": {
+        "name": "Alexandra Gardens",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1733832,
+          51.47651
+        ]
+      },
+      "properties": {
+        "name": "Handlebar Barista",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1471580827382404,
+          51.4913234867502
+        ]
+      },
+      "properties": {
+        "name": "Dunelm",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Newport Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.184939258388987,
+          51.455920419418405
+        ]
+      },
+      "properties": {
+        "name": "Asda",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Ferry Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.190462,
+          51.502601
+        ]
+      },
+      "properties": {
+        "name": "Th\u00e9 Pot Bistro",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1693410873413086,
+          51.48396191513654
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University School of Computer Science & Informatics",
+        "visits": 5,
+        "country": "United Kingdom",
+        "place": "Queen's Buildings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1749196357973246,
+          51.47922232040832
+        ]
+      },
+      "properties": {
+        "name": "Crouch Fine Jewellery & Watches",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Grand Arcade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.173030079465253,
+          51.482873593305435
+        ]
+      },
+      "properties": {
+        "name": "Pret A Manger",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.212651363140498,
+          51.49452465719532
+        ]
+      },
+      "properties": {
+        "name": "Clwb Rygbi Llandaff Rugby Club",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Western Ave."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.230953,
+          51.848162
+        ]
+      },
+      "properties": {
+        "name": "Starbucks",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7343875272249529,
+          52.01049401579588
+        ]
+      },
+      "properties": {
+        "name": "PizzaExpress",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.775917,
+          51.977651
+        ]
+      },
+      "properties": {
+        "name": "Longueville Hall",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.734962549702688,
+          52.00940944130575
+        ]
+      },
+      "properties": {
+        "name": "DoubleTree by Hilton Hotel Milton Keynes",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1776130199432373,
+          51.48098868085899
+        ]
+      },
+      "properties": {
+        "name": "The Entertainer",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "Queen St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179882,
+          51.480614
+        ]
+      },
+      "properties": {
+        "name": "Chai Street",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.163996590230879,
+          51.46426235407763
+        ]
+      },
+      "properties": {
+        "name": "One",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.164297554608848,
+          51.46371633011887
+        ]
+      },
+      "properties": {
+        "name": "Cardiff Bay",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.716927089256975,
+          51.146889688222004
+        ]
+      },
+      "properties": {
+        "name": "Glastonbury Abbey",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.13522133399677,
+          51.54194597834395
+        ]
+      },
+      "properties": {
+        "name": "Mercedes-Benz Cardiff & Newport",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1799007599805122,
+          51.48044531889504
+        ]
+      },
+      "properties": {
+        "name": "Kitchens Cookshop",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172978162765503,
+          51.478917324446016
+        ]
+      },
+      "properties": {
+        "name": "Cineworld",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1758691524357494,
+          51.48175035518693
+        ]
+      },
+      "properties": {
+        "name": "Queens Arcade",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.166758659660431,
+          51.46738484427714
+        ]
+      },
+      "properties": {
+        "name": "Cardiff Bay Railway Station (CDB)",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1604252815514347,
+          51.46104922298454
+        ]
+      },
+      "properties": {
+        "name": "Coffi Co",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0551611601423643,
+          52.64338429906568
+        ]
+      },
+      "properties": {
+        "name": "Hilton Park Southbound Motorway Services (Moto)",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6536982996673542,
+          53.33059836672239
+        ]
+      },
+      "properties": {
+        "name": "Colemans Deli",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Baulk Ln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7577265770095025,
+          53.7930061174431
+        ]
+      },
+      "properties": {
+        "name": "Jury's Inn",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "Godwin St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7558173797766523,
+          53.79078409035342
+        ]
+      },
+      "properties": {
+        "name": "National Media Museum",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.182344373570954,
+          51.491805898177084
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University Optometry Clinic",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "Maindy Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1781634707660613,
+          51.48174028556679
+        ]
+      },
+      "properties": {
+        "name": "The Works",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.174562150567698,
+          51.48236491512814
+        ]
+      },
+      "properties": {
+        "name": "WHSmith",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1586703544693693,
+          51.50972550215462
+        ]
+      },
+      "properties": {
+        "name": "Leigh Delamere Westbound Motorway Services (Moto)",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4160355776661426,
+          50.90059124694893
+        ]
+      },
+      "properties": {
+        "name": "Port Of Southampton",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.21450936794281,
+          60.39629545584299
+        ]
+      },
+      "properties": {
+        "name": "Ask\u00f8ybroen",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.095702741042984,
+          59.9858990437253
+        ]
+      },
+      "properties": {
+        "name": "Norway (Norge)",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.315966606140137,
+          60.39839154802963
+        ]
+      },
+      "properties": {
+        "name": "Bergen havn (port)",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.324663429297548,
+          60.406948326182565
+        ]
+      },
+      "properties": {
+        "name": "Ting",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.324313654219652,
+          60.39359798955714
+        ]
+      },
+      "properties": {
+        "name": "Bergen",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.332957981316453,
+          60.3892409883676
+        ]
+      },
+      "properties": {
+        "name": "Vinmonopolet",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.328872906563177,
+          60.38922167451466
+        ]
+      },
+      "properties": {
+        "name": "KODE",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.324473970722992,
+          60.3917729872709
+        ]
+      },
+      "properties": {
+        "name": "KODE 3",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331662535638896,
+          60.38988682546639
+        ]
+      },
+      "properties": {
+        "name": "Amalies Hage",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331997001629488,
+          60.389973798571646
+        ]
+      },
+      "properties": {
+        "name": "Bergen Offentlige Bibliotek",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.319828848195963,
+          60.388904461284156
+        ]
+      },
+      "properties": {
+        "name": "Johanneskirken",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.329314012010715,
+          60.39520614542597
+        ]
+      },
+      "properties": {
+        "name": "Kaffemisjonen",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.342715815352289,
+          60.39459726698725
+        ]
+      },
+      "properties": {
+        "name": "Fl\u00f8ien",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3282925232739045,
+          60.39637857867984
+        ]
+      },
+      "properties": {
+        "name": "Fl\u00f8ibanen",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.805214816341156,
+          61.834644565636665
+        ]
+      },
+      "properties": {
+        "name": "Bunnpris",
+        "visits": 1,
+        "country": "Norway",
+        "place": "Riksveg 60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808218955993652,
+          61.835929889195945
+        ]
+      },
+      "properties": {
+        "name": "Coop Marked",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.805325362617069,
+          61.83482195234376
+        ]
+      },
+      "properties": {
+        "name": "Pier Maua",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.805126693037686,
+          61.83462819781498
+        ]
+      },
+      "properties": {
+        "name": "Yris Kaf\u00e9",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.822533980017071,
+          61.66305670781703
+        ]
+      },
+      "properties": {
+        "name": "Briksdalsbre Mountain Lodge",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.823230913002714,
+          61.66324767640812
+        ]
+      },
+      "properties": {
+        "name": "Briksdalsbreen",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.116660644871951,
+          60.86310188289747
+        ]
+      },
+      "properties": {
+        "name": "Fl\u00e5m havn (port)",
+        "visits": 2,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1172672382720386,
+          60.86373152289716
+        ]
+      },
+      "properties": {
+        "name": "\u00c6gir Bryggeri",
+        "visits": 2,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.115536212437275,
+          60.8630435761131
+        ]
+      },
+      "properties": {
+        "name": "Fl\u00e5m Bakeri",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.117153588694208,
+          60.83757996104498
+        ]
+      },
+      "properties": {
+        "name": "Fl\u00e5m Kyrkje",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1226962409361745,
+          60.8393134924549
+        ]
+      },
+      "properties": {
+        "name": "H\u00e5reina",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.131663371004285,
+          60.74347623178218
+        ]
+      },
+      "properties": {
+        "name": "Vatnahalsen Stasjon",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1227767389183105,
+          60.73525771101202
+        ]
+      },
+      "properties": {
+        "name": "Myrdal stasjon",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.114890235761291,
+          60.863152641049474
+        ]
+      },
+      "properties": {
+        "name": "Fl\u00e5m stasjon",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.728018283843994,
+          58.972965781068545
+        ]
+      },
+      "properties": {
+        "name": "Stavanger havn",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73235043834352,
+          58.9704632700692
+        ]
+      },
+      "properties": {
+        "name": "Stavanger",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.735034845954343,
+          58.97028687331419
+        ]
+      },
+      "properties": {
+        "name": "Coop Prix",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.733459535462475,
+          58.97130633485902
+        ]
+      },
+      "properties": {
+        "name": "Stavanger Bibliotek",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.734325314074247,
+          58.97015530654537
+        ]
+      },
+      "properties": {
+        "name": "H&M",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.733030518539763,
+          58.96967657350347
+        ]
+      },
+      "properties": {
+        "name": "Stavanger Domkirke",
+        "visits": 1,
+        "country": "Norway",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.735537926721062,
+          58.9708702224958
+        ]
+      },
+      "properties": {
+        "name": "Steam Kaffebar",
+        "visits": 1,
+        "country": "Norway",
+        "place": "Nygata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4043509,
+          50.9097004
+        ]
+      },
+      "properties": {
+        "name": "P&O Azura",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3997465254195163,
+          50.89295809708181
+        ]
+      },
+      "properties": {
+        "name": "Ocean Terminal",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176106582091488,
+          51.479615113880975
+        ]
+      },
+      "properties": {
+        "name": "Cosy Club",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": "The Hayes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.177199959754944,
+          51.47882711807753
+        ]
+      },
+      "properties": {
+        "name": "Watches of Wales",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17558149330293,
+          51.4782490045774
+        ]
+      },
+      "properties": {
+        "name": "The Hayes",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.178170919418335,
+          51.47981937831838
+        ]
+      },
+      "properties": {
+        "name": "House of Fraser",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4762423038482666,
+          51.479366683142125
+        ]
+      },
+      "properties": {
+        "name": "Enterprise Rent-A-Car",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "London Heathrow Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4876159768660787,
+          51.47178157209927
+        ]
+      },
+      "properties": {
+        "name": "Terminal 5",
+        "visits": 6,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41020478959048,
+          33.94259328836535
+        ]
+      },
+      "properties": {
+        "name": "Gate 150",
+        "visits": 1,
+        "country": "United States",
+        "place": "LAX Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40999638562627,
+          33.943456602541545
+        ]
+      },
+      "properties": {
+        "name": "Oneworld Business Lounge",
+        "visits": 1,
+        "country": "United States",
+        "place": "LAX Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.405601978302,
+          33.94332434443264
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles International Airport (LAX)",
+        "visits": 3,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40885105203054,
+          33.94347114045382
+        ]
+      },
+      "properties": {
+        "name": "Tom Bradley International Terminal (TBIT)",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92793266137699,
+          33.81665213318463
+        ]
+      },
+      "properties": {
+        "name": "Holiday Inn Hotel & Suites Anaheim (1 Blk/Disneyland\u00ae)",
+        "visits": 4,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91997103439326,
+          33.808396085379044
+        ]
+      },
+      "properties": {
+        "name": "Soarin' Around the World",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91711699320638,
+          33.806976847868576
+        ]
+      },
+      "properties": {
+        "name": "Guardians of the Galaxy - Mission: BREAKOUT!",
+        "visits": 1,
+        "country": "United States",
+        "place": "Hollywood Land"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92067971579354,
+          33.804559784592094
+        ]
+      },
+      "properties": {
+        "name": "California Screamin'",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disney California Adventure Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92222566902637,
+          33.805140872487044
+        ]
+      },
+      "properties": {
+        "name": "Mickey's Fun Wheel",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disney California Adventure Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9193577170372,
+          33.807946554276796
+        ]
+      },
+      "properties": {
+        "name": "Fiddler, Fifer & Practical Caf\u00e9 (ft Starbucks)",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disney California Adventure Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.920859,
+          33.806112
+        ]
+      },
+      "properties": {
+        "name": "Disney California Adventure Park",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disneyland Resort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91795022785664,
+          33.81201570836017
+        ]
+      },
+      "properties": {
+        "name": "Star Tours - The Adventures Continue",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disneyland Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9189816884856,
+          33.811051193346934
+        ]
+      },
+      "properties": {
+        "name": "Main Street, U.S.A.",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disneyland Resort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91995429010375,
+          33.81156820273409
+        ]
+      },
+      "properties": {
+        "name": "Adventureland",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disneyland Resort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91740842163563,
+          33.81144023055639
+        ]
+      },
+      "properties": {
+        "name": "Space Mountain",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Disneyland Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.918989,
+          33.810485
+        ]
+      },
+      "properties": {
+        "name": "Disneyland Park",
+        "visits": 1,
+        "country": "United States",
+        "place": "btwn Ball Rd & Katella Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.650917,
+          33.45799
+        ]
+      },
+      "properties": {
+        "name": "The Habit Burger Grill",
+        "visits": 1,
+        "country": "United States",
+        "place": "Ocean View Plaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19546663277114,
+          32.75224926490045
+        ]
+      },
+      "properties": {
+        "name": "Harney Sushi",
+        "visits": 1,
+        "country": "United States",
+        "place": "btwn Congress & San Diego Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.194205,
+          32.753251
+        ]
+      },
+      "properties": {
+        "name": "Best Western Plus Hacienda Hotel Old Town",
+        "visits": 6,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19585307476112,
+          32.75314377810488
+        ]
+      },
+      "properties": {
+        "name": "O'Hungry's Restaurant",
+        "visits": 2,
+        "country": "United States",
+        "place": "at Twiggs St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19722515628712,
+          32.75551131713029
+        ]
+      },
+      "properties": {
+        "name": "Casa de Reyes",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Wallace St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.22170489444272,
+          32.761073455506235
+        ]
+      },
+      "properties": {
+        "name": "SeaWorld San Diego",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19733952751338,
+          32.755402226068185
+        ]
+      },
+      "properties": {
+        "name": "Fiesta de Reyes",
+        "visits": 1,
+        "country": "United States",
+        "place": "Wallace and Calhoun Streets"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19697241567206,
+          32.75556651582747
+        ]
+      },
+      "properties": {
+        "name": "Rose's Tasting Room ~ Old Town San Diego",
+        "visits": 1,
+        "country": "United States",
+        "place": "Wallace St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.194126,
+          32.752397
+        ]
+      },
+      "properties": {
+        "name": "Four Winds Trading Company",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69276189804077,
+          34.41373409773784
+        ]
+      },
+      "properties": {
+        "name": "Santa Barbara Amtrak (SBA)",
+        "visits": 1,
+        "country": "United States",
+        "place": "at W Yanonali St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.690663,
+          34.414629
+        ]
+      },
+      "properties": {
+        "name": "Helena Avenue Bakery",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6909413477218,
+          34.41126070986364
+        ]
+      },
+      "properties": {
+        "name": "Alamar Motel",
+        "visits": 2,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.700408,
+          34.419983
+        ]
+      },
+      "properties": {
+        "name": "Rite Aid",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69859110417774,
+          34.42224739127454
+        ]
+      },
+      "properties": {
+        "name": "Three Pickles",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Santa Barbara St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6985279713761,
+          34.42227369352757
+        ]
+      },
+      "properties": {
+        "name": "Handlebar Coffee",
+        "visits": 1,
+        "country": "United States",
+        "place": "Santa Barbara St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70566274913207,
+          34.42368617644202
+        ]
+      },
+      "properties": {
+        "name": "Scarlett Begonia",
+        "visits": 1,
+        "country": "United States",
+        "place": "In Victoria Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69438338707937,
+          34.41014102151455
+        ]
+      },
+      "properties": {
+        "name": "Franciscan Inn",
+        "visits": 7,
+        "country": "United States",
+        "place": "W Mason St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69949813002789,
+          34.41958984095703
+        ]
+      },
+      "properties": {
+        "name": "Hoffmann Brat Haus",
+        "visits": 1,
+        "country": "United States",
+        "place": "at De La Guerra St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69197770988343,
+          34.41449959384991
+        ]
+      },
+      "properties": {
+        "name": "Rebar Coffee",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86307001799446,
+          34.43877843336791
+        ]
+      },
+      "properties": {
+        "name": "Las Cumbres Observatory",
+        "visits": 9,
+        "country": "United States",
+        "place": "at Coromar Dr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69214631166113,
+          34.40986311302821
+        ]
+      },
+      "properties": {
+        "name": "Sambo's",
+        "visits": 5,
+        "country": "United States",
+        "place": "btw Bath St & Chapala St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6905267087198,
+          34.41469620367479
+        ]
+      },
+      "properties": {
+        "name": "The Lark",
+        "visits": 1,
+        "country": "United States",
+        "place": "Yanonali Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69051778462847,
+          34.41469608456436
+        ]
+      },
+      "properties": {
+        "name": "Les Marchands",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69819,
+          34.42083
+        ]
+      },
+      "properties": {
+        "name": "M8RX Nightclub & Lounge",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69901658121213,
+          34.41926150266657
+        ]
+      },
+      "properties": {
+        "name": "Pascucci Restaurant",
+        "visits": 1,
+        "country": "United States",
+        "place": "btw Canon Perdido & Ortega"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70691528593896,
+          34.42353197754041
+        ]
+      },
+      "properties": {
+        "name": "Empty Bowl Gourmet Noodle Bar",
+        "visits": 2,
+        "country": "United States",
+        "place": "in Santa Barbara Public Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7069088882291,
+          34.4234918336315
+        ]
+      },
+      "properties": {
+        "name": "Santa Barbara Public Market",
+        "visits": 2,
+        "country": "United States",
+        "place": "at Chapala St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86927340249035,
+          34.42919517276772
+        ]
+      },
+      "properties": {
+        "name": "Chipotle Mexican Grill",
+        "visits": 2,
+        "country": "United States",
+        "place": "Storke & Hollister"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.87645745282862,
+          34.42782673884186
+        ]
+      },
+      "properties": {
+        "name": "Albertsons",
+        "visits": 1,
+        "country": "United States",
+        "place": "The Plaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.68852132558823,
+          34.4156813070025
+        ]
+      },
+      "properties": {
+        "name": "Lama Dog Tap Room",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70034701107686,
+          34.418611411028536
+        ]
+      },
+      "properties": {
+        "name": "Eureka! Gourmet Burgers & Craft Beer",
+        "visits": 1,
+        "country": "United States",
+        "place": "Chapala Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.87066960609809,
+          34.427606898950415
+        ]
+      },
+      "properties": {
+        "name": "The Home Depot",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86769,
+          34.42832
+        ]
+      },
+      "properties": {
+        "name": "Kmart",
+        "visits": 1,
+        "country": "United States",
+        "place": "Storke Plaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.10327063346185,
+          34.58660978601803
+        ]
+      },
+      "properties": {
+        "name": "Sunstone Vineyards & Winery",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.09847403666146,
+          34.657193129872624
+        ]
+      },
+      "properties": {
+        "name": "Brander Vineyard",
+        "visits": 1,
+        "country": "United States",
+        "place": "154 Hwy & Roblar Ave."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69148728918087,
+          34.41467203295008
+        ]
+      },
+      "properties": {
+        "name": "Test Pilot",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69057014287809,
+          34.42104954651928
+        ]
+      },
+      "properties": {
+        "name": "Third Window Brewery",
+        "visits": 1,
+        "country": "United States",
+        "place": "Laguna And Haley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6957835103033,
+          34.41707555041099
+        ]
+      },
+      "properties": {
+        "name": "The Natural Cafe",
+        "visits": 1,
+        "country": "United States",
+        "place": "btwn Cota & Haley St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.68551993370056,
+          34.40979971159282
+        ]
+      },
+      "properties": {
+        "name": "Stearns Wharf",
+        "visits": 1,
+        "country": "United States",
+        "place": "at State St & Cabrillo Blvd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69537208519013,
+          34.41881623320772
+        ]
+      },
+      "properties": {
+        "name": "The French Press",
+        "visits": 3,
+        "country": "United States",
+        "place": "Anacapa Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69974643180973,
+          34.41873199951757
+        ]
+      },
+      "properties": {
+        "name": "Gap",
+        "visits": 3,
+        "country": "United States",
+        "place": "Paseo Nuevo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702806,
+          34.422313
+        ]
+      },
+      "properties": {
+        "name": "FedEx Office Print & Ship Center",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70349035231939,
+          34.42189444199636
+        ]
+      },
+      "properties": {
+        "name": "Walter Claudio",
+        "visits": 1,
+        "country": "United States",
+        "place": "btw Chapala St & State St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70555479295749,
+          34.424309219681724
+        ]
+      },
+      "properties": {
+        "name": "Chicken Little",
+        "visits": 1,
+        "country": "United States",
+        "place": "at E Victoria St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70534908396829,
+          34.425677750367974
+        ]
+      },
+      "properties": {
+        "name": "Crushcakes Cupcakery & Crushcafe",
+        "visits": 2,
+        "country": "United States",
+        "place": "at Arlington Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7478439401969,
+          34.43927629787334
+        ]
+      },
+      "properties": {
+        "name": "Macy's",
+        "visits": 2,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69366703691254,
+          34.4041508894011
+        ]
+      },
+      "properties": {
+        "name": "Endless Summer Bar & Cafe",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.72112129296613,
+          34.4015102683585
+        ]
+      },
+      "properties": {
+        "name": "Rose Cafe",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Meigs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.87464104189583,
+          34.428222254915006
+        ]
+      },
+      "properties": {
+        "name": "Costco Wholesale",
+        "visits": 1,
+        "country": "United States",
+        "place": "Camino Real Marketplace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7398769312019,
+          34.440604591482135
+        ]
+      },
+      "properties": {
+        "name": "Vices & Spices From Around the World",
+        "visits": 3,
+        "country": "United States",
+        "place": "at N. Ontare Rd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7494924962848,
+          34.43842975962016
+        ]
+      },
+      "properties": {
+        "name": "VONS",
+        "visits": 1,
+        "country": "United States",
+        "place": "La Cumbre Plaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.82712854517538,
+          34.425970067582874
+        ]
+      },
+      "properties": {
+        "name": "Santa Barbara Drive-in and Public Market",
+        "visits": 1,
+        "country": "United States",
+        "place": "Hollister"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70444919076212,
+          34.42257035001461
+        ]
+      },
+      "properties": {
+        "name": "Armada Wine & Beer Merchant",
+        "visits": 2,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70122947404985,
+          34.42084445027516
+        ]
+      },
+      "properties": {
+        "name": "Dear Diary",
+        "visits": 2,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70128864049911,
+          34.42142309762148
+        ]
+      },
+      "properties": {
+        "name": "Apple State Street",
+        "visits": 1,
+        "country": "United States",
+        "place": "btw Carrillo & Canon Perdido"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8721280645859,
+          34.42942281951157
+        ]
+      },
+      "properties": {
+        "name": "Anna's Bakery",
+        "visits": 1,
+        "country": "United States",
+        "place": "Camino Real Marketplace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7029999472833,
+          34.423039127955285
+        ]
+      },
+      "properties": {
+        "name": "Petit Valentien",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70320886992162,
+          34.42315822216266
+        ]
+      },
+      "properties": {
+        "name": "Viva - Santa Barbara",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70249610001359,
+          34.42424741475053
+        ]
+      },
+      "properties": {
+        "name": "Santa Barbara Courthouse",
+        "visits": 1,
+        "country": "United States",
+        "place": "at E Anapamu St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70686610334066,
+          34.4235401329133
+        ]
+      },
+      "properties": {
+        "name": "Green Star Coffee",
+        "visits": 1,
+        "country": "United States",
+        "place": "in Santa Barbara Public Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7046486255867,
+          34.42328800962549
+        ]
+      },
+      "properties": {
+        "name": "Metro Entertainment",
+        "visits": 1,
+        "country": "United States",
+        "place": "State St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86926825025397,
+          34.42635314736367
+        ]
+      },
+      "properties": {
+        "name": "Zizzo's Coffeehouse",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Santa Felicia Dr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69739,
+          34.41861
+        ]
+      },
+      "properties": {
+        "name": "Urban Outfitters",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69634780374557,
+          34.41798453951458
+        ]
+      },
+      "properties": {
+        "name": "The Palace Grill",
+        "visits": 1,
+        "country": "United States",
+        "place": "btw State & Anacapa St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.72185081118292,
+          34.40054790683107
+        ]
+      },
+      "properties": {
+        "name": "Lazy Acres Market",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69907649262562,
+          34.40238281617377
+        ]
+      },
+      "properties": {
+        "name": "Leadbetter Beach & Park",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Loma Alta Dr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70512945919371,
+          34.39718418039096
+        ]
+      },
+      "properties": {
+        "name": "Shoreline Park",
+        "visits": 1,
+        "country": "United States",
+        "place": "btw La Marina & San Rafael Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.74919510349058,
+          34.43712072110895
+        ]
+      },
+      "properties": {
+        "name": "Sears",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70117427529878,
+          34.41953728581043
+        ]
+      },
+      "properties": {
+        "name": "Nordstrom Paseo Nuevo in Santa Barbara",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70052199717212,
+          34.42018904665203
+        ]
+      },
+      "properties": {
+        "name": "H&M",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Canon Perdido"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.72891996975798,
+          34.439168841024895
+        ]
+      },
+      "properties": {
+        "name": "Trader Joe's",
+        "visits": 2,
+        "country": "United States",
+        "place": "btwn Samarkand & Arden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86932685734796,
+          34.4294770947794
+        ]
+      },
+      "properties": {
+        "name": "Sam's To Go",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Hollister"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70371849408636,
+          34.422018755031814
+        ]
+      },
+      "properties": {
+        "name": "Los Arroyos",
+        "visits": 1,
+        "country": "United States",
+        "place": "btw State St & Chapala St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40679721394385,
+          33.94212708260125
+        ]
+      },
+      "properties": {
+        "name": "Terminal 4",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48917055130004883,
+          51.47307024640801
+        ]
+      },
+      "properties": {
+        "name": "Heathrow Pods",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "LHR Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.476121,
+          51.471433
+        ]
+      },
+      "properties": {
+        "name": "Starbucks",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "LHR Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48744273201976474,
+          51.470001062047466
+        ]
+      },
+      "properties": {
+        "name": "BA Galleries Club Lounge South",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "LHR Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48348426818847656,
+          51.48039401074178
+        ]
+      },
+      "properties": {
+        "name": "Thistle London Heathrow Hotel",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.035319908823194,
+          51.42591815531191
+        ]
+      },
+      "properties": {
+        "name": "Reading Eastbound Motorway Services (Moto)",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175605519269606,
+          51.47785928721432
+        ]
+      },
+      "properties": {
+        "name": "wagamama",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16969,
+          51.51461
+        ]
+      },
+      "properties": {
+        "name": "Spar",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188122404997465,
+          51.52865771222639
+        ]
+      },
+      "properties": {
+        "name": "McColl's",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1755757052798126,
+          51.478229199408766
+        ]
+      },
+      "properties": {
+        "name": "Jamie's Italian",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.201490044593811,
+          51.48887400839333
+        ]
+      },
+      "properties": {
+        "name": "Bant a la Cart",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171450510760487,
+          51.4832452385198
+        ]
+      },
+      "properties": {
+        "name": "Evans cycles",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1755560943471504,
+          51.48738768543539
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University School of Mathematics",
+        "visits": 12,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1768832,
+          51.488224
+        ]
+      },
+      "properties": {
+        "name": "Senghenydd Road Co-op",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Senghenydd Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180453,
+          51.486563
+        ]
+      },
+      "properties": {
+        "name": "Welsh national war memorial",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1806573202450066,
+          51.52457384041839
+        ]
+      },
+      "properties": {
+        "name": "The Church Of St Martin's In Roath",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.481339325350535,
+          52.16693545371045
+        ]
+      },
+      "properties": {
+        "name": "Lebkov & Sons Leiden",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.457996086573846,
+          52.168802317440054
+        ]
+      },
+      "properties": {
+        "name": "Lorentz Center",
+        "visits": 5,
+        "country": "Netherlands",
+        "place": "Niels Bohrweg 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.488067,
+          52.158596
+        ]
+      },
+      "properties": {
+        "name": "De Gravin",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.494445498258893,
+          52.15732564025223
+        ]
+      },
+      "properties": {
+        "name": "De Gaanderij (restaurant)",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.483697129845998,
+          52.16193176120013
+        ]
+      },
+      "properties": {
+        "name": "Lemmy's Biercaf\u00e9",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": "at Kruisstraat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.499034977590274,
+          52.15642778116014
+        ]
+      },
+      "properties": {
+        "name": "Nieuwe Rijn",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760709955375224,
+          52.30848951234059
+        ]
+      },
+      "properties": {
+        "name": "Haarlemmermeer",
+        "visits": 1,
+        "country": "Netherlands",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.338505979117129,
+          51.397945017266295
+        ]
+      },
+      "properties": {
+        "name": "Gate 4",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4867858886718746,
+          51.88751119105873
+        ]
+      },
+      "properties": {
+        "name": "Brecon Beacons National Park",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.209564454993555,
+          53.221071155192256
+        ]
+      },
+      "properties": {
+        "name": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch Railway Station (LPG)",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.275540374762084,
+          53.139474874930706
+        ]
+      },
+      "properties": {
+        "name": "Caernarfon Castle",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27532796826966,
+          53.13960049840828
+        ]
+      },
+      "properties": {
+        "name": "Caffi Maes",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.097945228912893,
+          52.913819268667815
+        ]
+      },
+      "properties": {
+        "name": "Portmeirion",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.103728,
+          53.012198
+        ]
+      },
+      "properties": {
+        "name": "Hebog Bwyty & Llety",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10349381334215,
+          53.01177483186712
+        ]
+      },
+      "properties": {
+        "name": "Glaslyn Ices",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0762768923608395,
+          53.06845194690408
+        ]
+      },
+      "properties": {
+        "name": "Mount Snowdon (Yr Wyddfa) Summit",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.102863171885819,
+          53.01164287841517
+        ]
+      },
+      "properties": {
+        "name": "Beddgelert",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4585627447988103,
+          52.7606698132942
+        ]
+      },
+      "properties": {
+        "name": "Artisans",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Llanwddyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.309812291497924,
+          52.51429510738496
+        ]
+      },
+      "properties": {
+        "name": "McDonald's",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3898938,
+          51.947247
+        ]
+      },
+      "properties": {
+        "name": "Dugan's Patisserie",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1936428848176286,
+          51.52640744474122
+        ]
+      },
+      "properties": {
+        "name": "DW Sports",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Llanishen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1926777670137643,
+          51.52638548827995
+        ]
+      },
+      "properties": {
+        "name": "Mountain Warehouse",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Ty Glas Road, Llanishen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1816747551059037,
+          51.494079153125824
+        ]
+      },
+      "properties": {
+        "name": "The Flora",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1795356501291088,
+          51.55127375947049
+        ]
+      },
+      "properties": {
+        "name": "Ty Mawr",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1648518378393597,
+          51.46298101974119
+        ]
+      },
+      "properties": {
+        "name": "Cadwaladers Cafe",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1681240786050524,
+          51.46273054449384
+        ]
+      },
+      "properties": {
+        "name": "Techniquest",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1658344846733595,
+          51.464346404053984
+        ]
+      },
+      "properties": {
+        "name": "Nata & Co.",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1825225393260292,
+          51.49177614621174
+        ]
+      },
+      "properties": {
+        "name": "School of Optometry and Vision Sciences",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "Cardiff University"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1588353918266883,
+          51.496034950610735
+        ]
+      },
+      "properties": {
+        "name": "Penylan Pantry",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180194955867398,
+          51.48072767970324
+        ]
+      },
+      "properties": {
+        "name": "The Potted Pig",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.179405676894419,
+          51.47869658693462
+        ]
+      },
+      "properties": {
+        "name": "BrewDog Cardiff",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176383201225007,
+          51.508076651493944
+        ]
+      },
+      "properties": {
+        "name": "Roath Park Lighthouse",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.164704665250762,
+          51.49708780021925
+        ]
+      },
+      "properties": {
+        "name": "Roath Recreational Park",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1862497329711914,
+          51.51172056046395
+        ]
+      },
+      "properties": {
+        "name": "Heath Park",
+        "visits": 4,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.203462562736308,
+          51.48817949375528
+        ]
+      },
+      "properties": {
+        "name": "The Conway",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Pontcanna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2019959831326044,
+          51.48230846514848
+        ]
+      },
+      "properties": {
+        "name": "Crafty Devil's Cellar",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176836405801632,
+          51.480114487970965
+        ]
+      },
+      "properties": {
+        "name": "The Body Shop",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176476986275444,
+          51.478723696923964
+        ]
+      },
+      "properties": {
+        "name": "Wally's Delicatessen",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1772648182593572,
+          51.47842667904861
+        ]
+      },
+      "properties": {
+        "name": "The Pen & Paper",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.178076445974966,
+          51.47827159839843
+        ]
+      },
+      "properties": {
+        "name": "Pieminister",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1998324702129586,
+          51.51115012608484
+        ]
+      },
+      "properties": {
+        "name": "Top Oriental",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1722410300976462,
+          51.48284749351781
+        ]
+      },
+      "properties": {
+        "name": "Capitol Shopping Centre",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2019889354705806,
+          51.484630030995994
+        ]
+      },
+      "properties": {
+        "name": "The Bone Yard",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175363262201873,
+          51.48362177455631
+        ]
+      },
+      "properties": {
+        "name": "New Theatre",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1772993819557582,
+          51.48190053680387
+        ]
+      },
+      "properties": {
+        "name": "Christopher George",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.182193929906011,
+          51.486642924952925
+        ]
+      },
+      "properties": {
+        "name": "Cardiff University Bute Building",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1763679504703126,
+          51.480330721389365
+        ]
+      },
+      "properties": {
+        "name": "St David's Hall",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1853485107421875,
+          51.483868378135085
+        ]
+      },
+      "properties": {
+        "name": "Bute Park",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2061022256060894,
+          51.49533359102264
+        ]
+      },
+      "properties": {
+        "name": "Pontcanna Fields",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.200644539373484,
+          51.488804135171115
+        ]
+      },
+      "properties": {
+        "name": "Coffee #1",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7238073348999023,
+          51.48857171531708
+        ]
+      },
+      "properties": {
+        "name": "Rest Bay",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.721946145248222,
+          51.489292933288766
+        ]
+      },
+      "properties": {
+        "name": "Malc's",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7287226981929567,
+          51.515879632399546
+        ]
+      },
+      "properties": {
+        "name": "Kenfig Reserve Centre",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1802053997612756,
+          51.486747438293875
+        ]
+      },
+      "properties": {
+        "name": "Cathays Park",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1744125,
+          51.478634
+        ]
+      },
+      "properties": {
+        "name": "Highgrove",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.177419900894165,
+          51.481038793155086
+        ]
+      },
+      "properties": {
+        "name": "That's Entertainment",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175152918275528,
+          51.48728620903057
+        ]
+      },
+      "properties": {
+        "name": "Centre for Lifelong Learning",
+        "visits": 3,
+        "country": "United Kingdom",
+        "place": "Cardiff University"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2151923375131006,
+          51.55164926067926
+        ]
+      },
+      "properties": {
+        "name": "Traveller's Rest",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2820226467469538,
+          51.56629160673045
+        ]
+      },
+      "properties": {
+        "name": "The Conference Centre",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "Cefn Coed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1964724,
+          51.481464
+        ]
+      },
+      "properties": {
+        "name": "Chai Street",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176868,
+          51.482278
+        ]
+      },
+      "properties": {
+        "name": "PPM Locksmiths Ltd",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Queen St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180990851738098,
+          51.48121819681318
+        ]
+      },
+      "properties": {
+        "name": "Nata & Co",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1750766834127457,
+          51.4805835193913
+        ]
+      },
+      "properties": {
+        "name": "Debenhams",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.207338719048073,
+          51.47951619425815
+        ]
+      },
+      "properties": {
+        "name": "The Lansdowne Pub",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Canton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17455301329802841,
+          51.5162165921138
+        ]
+      },
+      "properties": {
+        "name": "Java U Paddington",
+        "visits": 2,
+        "country": "United Kingdom",
+        "place": "Paddington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89537,
+          41.97151
+        ]
+      },
+      "properties": {
+        "name": "Chicago O'Hare International Airport (ORD)",
+        "visits": 2,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60698323000007,
+          41.86636988366481
+        ]
+      },
+      "properties": {
+        "name": "Grainger Sky Theater",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61730976209242,
+          41.8660649837041
+        ]
+      },
+      "properties": {
+        "name": "The Field Museum",
+        "visits": 1,
+        "country": "United States",
+        "place": "at McFetridge Dr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60798989742868,
+          41.86627745136146
+        ]
+      },
+      "properties": {
+        "name": "Zooniverse HQ",
+        "visits": 2,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60712676177226,
+          41.86643367412824
+        ]
+      },
+      "properties": {
+        "name": "Adler Planetarium",
+        "visits": 3,
+        "country": "United States",
+        "place": "at Solidarity Dr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62747565742276,
+          41.89253320679923
+        ]
+      },
+      "properties": {
+        "name": "ACME Hotel Company",
+        "visits": 4,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62746130075247,
+          41.89251830550363
+        ]
+      },
+      "properties": {
+        "name": "West Town Bakery",
+        "visits": 1,
+        "country": "United States",
+        "place": "at N State St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62642335131447,
+          41.892466421478254
+        ]
+      },
+      "properties": {
+        "name": "Birreria",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Eataly Chicago"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6264590285705,
+          41.89246417690327
+        ]
+      },
+      "properties": {
+        "name": "Eataly",
+        "visits": 1,
+        "country": "United States",
+        "place": "at N Wabash Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62331873178482,
+          41.882668094222694
+        ]
+      },
+      "properties": {
+        "name": "Cloud Gate by Anish Kapoor",
+        "visits": 1,
+        "country": "United States",
+        "place": "btwn Randolph & Monroe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6240348815918,
+          41.90436915837922
+        ]
+      },
+      "properties": {
+        "name": "Chicago Lakefront Trail",
+        "visits": 1,
+        "country": "United States",
+        "place": "at N Lakeshore Dr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6077748161516,
+          41.86637065795224
+        ]
+      },
+      "properties": {
+        "name": "Nicolas Copernicus",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62784716613658,
+          41.89157436057174
+        ]
+      },
+      "properties": {
+        "name": "CTA - Grand (Red)",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Grand Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62746639648644,
+          41.87155265110659
+        ]
+      },
+      "properties": {
+        "name": "Lou Malnati's Pizzeria",
+        "visits": 1,
+        "country": "United States",
+        "place": "btwn 8th St & 9th St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62668490409851,
+          41.86742762107716
+        ]
+      },
+      "properties": {
+        "name": "CTA - Roosevelt",
+        "visits": 1,
+        "country": "United States",
+        "place": "at State St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.628020680368,
+          41.891882557254064
+        ]
+      },
+      "properties": {
+        "name": "Weber Grill Restaurant",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Grand Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46234846115112305,
+          51.469407923261336
+        ]
+      },
+      "properties": {
+        "name": "London Heathrow Airport (LHR)",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47131626256555137,
+          51.47957345483521
+        ]
+      },
+      "properties": {
+        "name": "Europcar",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.017949,
+          51.821943
+        ]
+      },
+      "properties": {
+        "name": "Abergavenny Borough Theatre",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2001246952751696,
+          51.484417052523575
+        ]
+      },
+      "properties": {
+        "name": "Beti Biggs",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Romilly Crescent, Pontcanna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9555270503231914,
+          51.610097188328226
+        ]
+      },
+      "properties": {
+        "name": "National Roman Legionary Museum",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.954145,
+          51.610031
+        ]
+      },
+      "properties": {
+        "name": "Roman Fortress Baths",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.337162777744163,
+          51.40028615659194
+        ]
+      },
+      "properties": {
+        "name": "International Centre for Aerospace Training (ICAT)",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "Port Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1488221883773804,
+          51.494817584987764
+        ]
+      },
+      "properties": {
+        "name": "Wilko",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7044128545791972,
+          52.19010811885691
+        ]
+      },
+      "properties": {
+        "name": "Swan Theatre",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7038389911806289,
+          52.19080121163988
+        ]
+      },
+      "properties": {
+        "name": "Rooftop Restaurant",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.70788601,
+          52.19057097
+        ]
+      },
+      "properties": {
+        "name": "The Guild Chapel",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.706772152652462,
+          52.19292319966054
+        ]
+      },
+      "properties": {
+        "name": "Stratford-upon-Avon",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5912539999999922,
+          52.346833
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Castle Gatehouse",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5906558057029287,
+          52.34755624826699
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Castle",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.590327,
+          52.34567
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Castle Car Park",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1927894215987256,
+          51.526412071736345
+        ]
+      },
+      "properties": {
+        "name": "Laura Ashley",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.142368193834451,
+          51.49751975727323
+        ]
+      },
+      "properties": {
+        "name": "Topps Tiles",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6986096584135562,
+          51.58228536299763
+        ]
+      },
+      "properties": {
+        "name": "First Great Western Train",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37738762791782887,
+          51.50610820654089
+        ]
+      },
+      "properties": {
+        "name": "Platform 4",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": "South Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01894987982625,
+          42.37024492148866
+        ]
+      },
+      "properties": {
+        "name": "Hudson News",
+        "visits": 1,
+        "country": "United States",
+        "place": "BOS Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.019841,
+          42.37086
+        ]
+      },
+      "properties": {
+        "name": "gate E12",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01815472858472,
+          42.36346999188798
+        ]
+      },
+      "properties": {
+        "name": "Boston Logan International Airport (BOS)",
+        "visits": 2,
+        "country": "United States",
+        "place": "at I-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11898156446101,
+          42.37404322890686
+        ]
+      },
+      "properties": {
+        "name": "MBTA Harvard Station",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Brattle St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13120159576836,
+          42.382285982359264
+        ]
+      },
+      "properties": {
+        "name": "Sarah's Cafe",
+        "visits": 4,
+        "country": "United States",
+        "place": "at Huron Ave."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1268440055976,
+          42.381964538157895
+        ]
+      },
+      "properties": {
+        "name": "John Gray Wolbach Library",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12747647569608,
+          42.38132979038385
+        ]
+      },
+      "properties": {
+        "name": "Harvard-Smithsonian Center for Astrophysics",
+        "visits": 4,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14213133070427,
+          42.38850127120092
+        ]
+      },
+      "properties": {
+        "name": "Best Western Plus Hotel Tria",
+        "visits": 2,
+        "country": "United States",
+        "place": "at Concord Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07938337576847,
+          42.39423352226971
+        ]
+      },
+      "properties": {
+        "name": "Southern Kin Cookhouse",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12279965479898,
+          42.373602403743604
+        ]
+      },
+      "properties": {
+        "name": "HarvardX Media Production Center",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12295216113037,
+          42.37730414300572
+        ]
+      },
+      "properties": {
+        "name": "Nubar",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14342820846525,
+          42.38933473397203
+        ]
+      },
+      "properties": {
+        "name": "Chipotle Mexican Grill",
+        "visits": 1,
+        "country": "United States",
+        "place": "at Fresh Pond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14351819688,
+          42.39005559077854
+        ]
+      },
+      "properties": {
+        "name": "Trader Joe's",
+        "visits": 1,
+        "country": "United States",
+        "place": "Concord Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13698081390562,
+          42.38572612745158
+        ]
+      },
+      "properties": {
+        "name": "Violette Bakers",
+        "visits": 1,
+        "country": "United States",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.138063,
+          51.474091
+        ]
+      },
+      "properties": {
+        "name": "Reclamation Yard",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3903077838138627,
+          51.53122529462939
+        ]
+      },
+      "properties": {
+        "name": "Leekes",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436768054962158,
+          51.88394183613247
+        ]
+      },
+      "properties": {
+        "name": "Pen Y Fan",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1789457578983384,
+          51.491441199459665
+        ]
+      },
+      "properties": {
+        "name": "Cathays",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08999467154139276,
+          51.52337677522696
+        ]
+      },
+      "properties": {
+        "name": "The Artillery Arms",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16966,
+          51.484264
+        ]
+      },
+      "properties": {
+        "name": "The Rest Frame",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175085273264504,
+          51.481303026319395
+        ]
+      },
+      "properties": {
+        "name": "M&S Caf\u00e9",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.166407,
+          51.485539
+        ]
+      },
+      "properties": {
+        "name": "Therapy Health And Education Centre",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19002628326416,
+          51.50712645669751
+        ]
+      },
+      "properties": {
+        "name": "University Hospital Wales",
+        "visits": 1,
+        "country": "United Kingdom",
+        "place": ""
+      }
+    }
+  ]
+});
